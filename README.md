@@ -19,7 +19,7 @@ The application is built using a **microservice architecture** and supports hote
 
 ##  Demo Video Link
 
-Demo video link will be pasted here
+https://drive.google.com/drive/folders/1wkwEUF1xtfCdUa7OE1n-wj7sKe7I-5BB?usp=sharing
 
 #  Features
 
